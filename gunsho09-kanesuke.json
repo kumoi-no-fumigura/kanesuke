@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kanesuke",
  "yomi": "ごんちゅうなごんかねすけきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "藤原兼輔（877〜933）",
+  "desc": "三十六歌仙の一人で堤中納言と呼ばれた藤原兼輔の家集。正月の集いや知人との贈答、亡き人を偲ぶ歌などを収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1694,6 +1699,6 @@
   "poems": 146,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
